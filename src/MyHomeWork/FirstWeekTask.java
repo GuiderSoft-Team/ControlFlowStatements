@@ -3,7 +3,7 @@ package MyHomeWork;
 public class FirstWeekTask {
 
     public static void main(String[] args) {
-        boolean random;
+        boolean randomname;
         System.out.println();
     }
 }
